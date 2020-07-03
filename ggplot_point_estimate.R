@@ -41,32 +41,3 @@ for (d in Depvar){
   file = paste0(path, f, ".pdf")
   ggsave(file,height=8, width=10, units='in')
 }
-
-
-# color<-c("#a50026",
-#          "#d73027",
-#          "#f46d43",
-#          "#fdae61",
-#          "#fee090",
-#          "#e0f3f8",
-#          "#abd9e9",
-#          "#74add1",
-#          "#4575b4",
-#          "#313695")
-
-#   theme(legend.position="top", legend.title.align=-80,legend.key.size = unit(5, "mm"), axis.text.x = element_text(size=12), 
-#         axis.title.x=element_text(vjust=-2)) +
-#   guides(linetype=guide_legend(nrow=4)) +
-#   guides(color = guide_legend(title.position = "top", 
-#                               # hjust = 0.5 centres the title horizontally
-#                               title.hjust = 0.5,
-#                               label.position = "bottom")) + 
-
-# scale_color_manual(name="Category", 
-# values=color,
-# labels=c("Entertain", "Endocrine", "Nose, mouth,\n and pharynx",
-#          "Cardiovascular", "Hemic and \n lymphatic", "Urinary",
-#          "Female genital \n organs", "Obstetrical", "Musculoskeletal",
-#          "Miscellaneous")) 
-
-
