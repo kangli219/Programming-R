@@ -1,0 +1,409 @@
+treatment,beta,se,CI_low,CI_high,label,sample,category,subcategory
+lockdown,-302.08235175271784,5.432910520008814,-312.7313286030484,-291.4333749023873,travel,diff_All,travel,
+stimulus,203.42220651804482,4.882779511637209,193.85153426176615,212.9928787743235,travel,diff_All,travel,
+lockdown,-158.76478890865195,4.039410652109972,-166.68270790298934,-150.84686991431457,travel,diff_Republican,travel,
+stimulus,151.65306320866824,4.402311385125316,143.02379821500784,160.28232820232864,travel,diff_Republican,travel,
+lockdown,-435.03420247091924,9.479190172501223,-453.6160315613771,-416.4523733804614,travel,diff_Democrat,travel,
+stimulus,247.48397462608236,8.189099183523943,231.43107995218026,263.53686929998446,travel,diff_Democrat,travel,
+lockdown,-47.86995871380291,0.9445217233641776,-49.721303389864886,-46.01861403774093,travel,perch_All,travel,
+stimulus,37.487117425106284,1.1964626674142764,35.14194659988189,39.83228825033068,travel,perch_All,travel,
+lockdown,-40.5173350696441,1.5390214140293903,-43.5340738804085,-37.500596258879696,travel,perch_Republican,travel,
+stimulus,47.44634715854437,2.063390068507204,43.40175827585022,51.49093604123852,travel,perch_Republican,travel,
+lockdown,-54.69079003221478,1.1246819260407275,-56.89547703084067,-52.48610303358889,travel,perch_Democrat,travel,
+stimulus,29.010614956696294,1.3384896232438228,26.38680585846556,31.634424054927027,travel,perch_Democrat,travel,
+lockdown,-150.94117590798106,7.012377193479655,-164.6878346162016,-137.19451719976053,travel: airline,diff_All,travel,airline
+stimulus,87.66208414190164,9.818503232267073,68.41445823195532,106.90971005184797,travel: airline,diff_All,travel,airline
+lockdown,-74.07081996349478,9.875374815083624,-93.43670523979583,-54.704934687193735,travel: airline,diff_Republican,travel,airline
+stimulus,67.06029236429289,16.851439587910942,34.014149619255456,100.10643510933033,travel: airline,diff_Republican,travel,airline
+lockdown,-171.9310131123473,8.373245127961528,-188.34718774571616,-155.51483847897845,travel: airline,diff_Democrat,travel,airline
+stimulus,92.22852257018067,11.384466112246928,69.90869543622769,114.54834970413366,travel: airline,diff_Democrat,travel,airline
+lockdown,-88.77677669020237,4.531791236109768,-97.66063814557755,-79.89291523482719,travel: airline,perch_All,travel,airline
+stimulus,61.480027178958814,7.874539808479181,46.04323474113718,76.91681961678044,travel: airline,perch_All,travel,airline
+lockdown,-58.85043387623664,11.064087393513672,-80.54741765273951,-37.15345009973377,travel: airline,perch_Republican,travel,airline
+stimulus,58.669013100344195,19.748806587389318,19.941052908789544,97.39697329189885,travel: airline,perch_Republican,travel,airline
+lockdown,-96.94831506893486,4.898145288494897,-106.55137901925787,-87.34525111861186,travel: airline,perch_Democrat,travel,airline
+stimulus,62.10309544649519,8.566473193910628,45.308087323097986,78.89810356989238,travel: airline,perch_Democrat,travel,airline
+lockdown,-6.398824790031549,2.3490006467493405,-11.003354119465055,-1.7942954605980432,travel: car rental,diff_All,travel,car rental
+stimulus,41.533287357161484,3.5092738677964204,34.65438143959856,48.41219327472441,travel: car rental,diff_All,travel,car rental
+lockdown,18.654425263607912,4.279912410778902,10.263441543890384,27.04540898332544,travel: car rental,diff_Republican,travel,car rental
+stimulus,38.11103636502948,7.019321137536655,24.34930394260821,51.872768787450745,travel: car rental,diff_Republican,travel,car rental
+lockdown,-13.76937060213251,2.746805611539953,-19.154157318625263,-8.384583885639756,travel: car rental,diff_Democrat,travel,car rental
+stimulus,42.29781081339009,3.995971176304803,34.464183119004176,50.13143850777601,travel: car rental,diff_Democrat,travel,car rental
+lockdown,20.012688586932214,7.265534038361559,5.770732280990362,34.25464489287407,travel: car rental,perch_All,travel,car rental
+stimulus,103.87218441019529,11.316521191725135,81.68945159291714,126.05491722747344,travel: car rental,perch_All,travel,car rental
+lockdown,108.57726235936858,17.68690073203623,73.90120316689394,143.25332155184321,travel: car rental,perch_Republican,travel,car rental
+stimulus,80.4154119657506,31.80676630031983,18.05664557354949,142.7741783579517,travel: car rental,perch_Republican,travel,car rental
+lockdown,-6.042583560248187,7.780325548517566,-21.294989295708515,9.209822175212139,travel: car rental,perch_Democrat,travel,car rental
+stimulus,109.11237654759985,11.883697406724618,85.81579681523412,132.4089562799656,travel: car rental,perch_Democrat,travel,car rental
+lockdown,-94.17101340040973,3.522894154506017,-101.07646834024308,-87.26555846057639,travel: hotel,diff_All,travel,hotel
+stimulus,112.88799619693089,4.632816933970587,103.80690911938946,121.96908327447231,travel: hotel,diff_All,travel,hotel
+lockdown,-66.71757496730999,4.080842130710152,-74.71745299896244,-58.71769693565753,travel: hotel,diff_Republican,travel,hotel
+stimulus,92.91872124925736,5.348708326453514,82.43338198153472,103.40406051698,travel: hotel,diff_Republican,travel,hotel
+lockdown,-113.67585610069528,5.250149193322736,-123.96817093830234,-103.38354126308823,travel: hotel,diff_Democrat,travel,hotel
+stimulus,125.57533753988898,6.757750904142501,112.3275426033151,138.82313247646286,travel: hotel,diff_Democrat,travel,hotel
+lockdown,-30.892035233665823,1.9462803966975701,-34.70706656592582,-27.077003901405824,travel: hotel,perch_All,travel,hotel
+stimulus,44.339193038600705,2.7595701850107086,38.92997926999371,49.7484068072077,travel: hotel,perch_All,travel,hotel
+lockdown,-25.21373908750401,3.0361321898735616,-31.165620201497422,-19.261857973510597,travel: hotel,perch_Republican,travel,hotel
+stimulus,47.68348870042712,4.537893195971989,38.78763070698788,56.579346693866356,travel: hotel,perch_Republican,travel,hotel
+lockdown,-34.92629394433395,2.53373156878738,-39.89338384210492,-29.95920404656298,travel: hotel,perch_Democrat,travel,hotel
+stimulus,42.21441781643825,3.471749997580255,35.40845046259567,49.02038517028083,travel: hotel,perch_Democrat,travel,hotel
+lockdown,-165.49790530045445,2.7259530695237024,-170.84097210740535,-160.15483849350355,non-food shopping,diff_All,non-food shopping,
+stimulus,189.9973851416095,3.190600632407869,183.74357522688717,196.25119505633182,non-food shopping,diff_All,non-food shopping,
+lockdown,-109.32811364152703,2.484502208438103,-114.19807309829906,-104.45815418475499,non-food shopping,diff_Republican,non-food shopping,
+stimulus,151.58372303514238,3.2385439857725364,145.2357399840023,157.93170608628247,non-food shopping,diff_Republican,non-food shopping,
+lockdown,-262.70849772999753,5.897426596681912,-274.26901399761255,-251.1479814623825,non-food shopping,diff_Democrat,non-food shopping,
+stimulus,252.4156376343839,6.459268302293085,239.75376299103308,265.0775122777347,non-food shopping,diff_Democrat,non-food shopping,
+lockdown,-22.693161229961774,0.28745710735321084,-23.25659812324234,-22.129724336681207,non-food shopping,perch_All,non-food shopping,
+stimulus,20.73075907778129,0.3681625337733836,20.009133663257476,21.452384492305104,non-food shopping,perch_All,non-food shopping,
+lockdown,-19.977742794862024,0.3752386022154012,-20.713261070192363,-19.242224519531685,non-food shopping,perch_Republican,non-food shopping,
+stimulus,21.700946037769267,0.49330692795381814,20.733997918053113,22.66789415748542,non-food shopping,perch_Republican,non-food shopping,
+lockdown,-27.39261670191664,0.43554014391445106,-28.246390604207395,-26.538842799625886,non-food shopping,perch_Democrat,non-food shopping,
+stimulus,19.154304990538,0.5394814769163082,18.096778578343752,20.21183140273225,non-food shopping,perch_Democrat,non-food shopping,
+lockdown,-9.574743183442868,1.2712778279239034,-12.066699804452623,-7.082786562433112,non-food shopping: cosmetics,diff_All,non-food shopping,cosmetics
+stimulus,54.93611189841059,1.9209014484599676,51.17076416902064,58.70145962780053,non-food shopping: cosmetics,diff_All,non-food shopping,cosmetics
+lockdown,-3.1466030357212387,1.4635500172246654,-6.015791164785638,-0.2774149066568401,non-food shopping: cosmetics,diff_Republican,non-food shopping,cosmetics
+stimulus,40.75188017254846,2.1562341860221923,36.52473285458426,44.979027490512664,non-food shopping: cosmetics,diff_Republican,non-food shopping,cosmetics
+lockdown,-13.957786879662105,1.8826751688279977,-17.64864894432187,-10.266924815002342,non-food shopping: cosmetics,diff_Democrat,non-food shopping,cosmetics
+stimulus,63.682677463128265,2.7809375613615717,58.230830474671706,69.13452445158482,non-food shopping: cosmetics,diff_Democrat,non-food shopping,cosmetics
+lockdown,-9.940724693562531,1.8383682339492737,-13.544290957221245,-6.337158429903818,non-food shopping: cosmetics,perch_All,non-food shopping,cosmetics
+stimulus,83.39619888521445,3.0666499363985644,77.38495693206289,89.407440838366,non-food shopping: cosmetics,perch_All,non-food shopping,cosmetics
+lockdown,-8.239694881411017,2.972067903546993,-14.066227522776376,-2.4131622400456587,non-food shopping: cosmetics,perch_Republican,non-food shopping,cosmetics
+stimulus,88.34110742717249,4.999699260833995,78.53954437893478,98.1426704754102,non-food shopping: cosmetics,perch_Republican,non-food shopping,cosmetics
+lockdown,-11.100576193980439,2.3344095162459344,-15.677034028847666,-6.524118359113212,non-food shopping: cosmetics,perch_Democrat,non-food shopping,cosmetics
+stimulus,80.34697016351286,3.8835368123508824,72.73354914710964,87.96039117991609,non-food shopping: cosmetics,perch_Democrat,non-food shopping,cosmetics
+lockdown,-143.04991121117325,2.421079818991994,-147.7954042747131,-138.3044181476334,non-food shopping: auto dealer,diff_All,non-food shopping,auto dealer
+stimulus,126.0400961651215,2.4997007099307806,121.14050041993002,130.93969191031297,non-food shopping: auto dealer,diff_All,non-food shopping,auto dealer
+lockdown,-96.54180001082312,2.2440382002255217,-100.94041763118118,-92.14318239046507,non-food shopping: auto dealer,diff_Republican,non-food shopping,auto dealer
+stimulus,105.07977345973269,2.642203002115686,99.90069911041859,110.2588478090468,non-food shopping: auto dealer,diff_Republican,non-food shopping,auto dealer
+lockdown,-223.56317785744,5.21137559379685,-233.7788532632218,-213.3475024516582,non-food shopping: auto dealer,diff_Democrat,non-food shopping,auto dealer
+stimulus,160.15723157593828,4.943783394937697,150.46610770083456,169.848355451042,non-food shopping: auto dealer,diff_Democrat,non-food shopping,auto dealer
+lockdown,-21.735172140905902,0.27869344977851646,-22.28143163322143,-21.188912648590374,non-food shopping: auto dealer,perch_All,non-food shopping,auto dealer
+stimulus,14.801028412529785,0.3494307321051035,14.116118686553543,15.485938138506027,non-food shopping: auto dealer,perch_All,non-food shopping,auto dealer
+lockdown,-19.150996037489527,0.3624359187545971,-19.86141933524106,-18.440572739737995,non-food shopping: auto dealer,perch_Republican,non-food shopping,auto dealer
+stimulus,15.857968700918338,0.4670585489115898,14.942470933199894,16.773466468636784,non-food shopping: auto dealer,perch_Republican,non-food shopping,auto dealer
+lockdown,-26.208810272090545,0.4258210096628041,-27.043532148758846,-25.374088395422245,non-food shopping: auto dealer,perch_Democrat,non-food shopping,auto dealer
+stimulus,13.080645790232259,0.5143748260766475,12.072334996752087,14.08895658371243,non-food shopping: auto dealer,perch_Democrat,non-food shopping,auto dealer
+lockdown,-20.21364531849921,2.2603003248459044,-24.644165401595348,-15.783125235403073,non-food shopping: auto,diff_All,non-food shopping,auto
+stimulus,75.82620352999758,2.7151627826935614,70.50408632930252,81.14832073069265,non-food shopping: auto,diff_All,non-food shopping,auto
+lockdown,-7.912651964889072,2.5223051149568425,-12.857107922340656,-2.9681960074374887,non-food shopping: auto,diff_Republican,non-food shopping,auto
+stimulus,58.951792099488635,3.1108230735311935,52.853668764888674,65.04991543408859,non-food shopping: auto,diff_Republican,non-food shopping,auto
+lockdown,-31.766474556406315,3.674499482413301,-38.96987303045323,-24.5630760823594,non-food shopping: auto,diff_Democrat,non-food shopping,auto
+stimulus,90.35666598199855,4.2593602608608245,82.00672081250025,98.70661115149684,non-food shopping: auto,diff_Democrat,non-food shopping,auto
+lockdown,-43.26146440558993,3.6918455412613267,-50.4980230320912,-36.02490577908867,non-food shopping: auto,perch_All,non-food shopping,auto
+stimulus,143.53755050085545,5.612532836400491,132.5361631297307,154.53893787198018,non-food shopping: auto,perch_All,non-food shopping,auto
+lockdown,-35.54735877570142,5.416522850456559,-46.16532823459094,-24.9293893168119,non-food shopping: auto,perch_Republican,non-food shopping,auto
+stimulus,158.09562829222347,8.513318927623086,141.40703251538324,174.7842240690637,non-food shopping: auto,perch_Republican,non-food shopping,auto
+lockdown,-50.506387031218736,5.035771103914923,-60.37838893493549,-40.634385127501986,non-food shopping: auto,perch_Democrat,non-food shopping,auto
+stimulus,131.00167014781812,7.4342121504719705,116.42782336494152,145.57551693069473,non-food shopping: auto,perch_Democrat,non-food shopping,auto
+lockdown,11.571017482865404,1.6929051483610524,8.252640548485438,14.88939441724537,non-food shopping: used goods,diff_All,non-food shopping,used goods
+stimulus,51.52545494218176,2.8631964156651923,45.9131115964597,57.13779828790382,non-food shopping: used goods,diff_All,non-food shopping,used goods
+lockdown,10.20304171897919,2.0452270495452427,6.193724248353659,14.21235918960472,non-food shopping: used goods,diff_Republican,non-food shopping,used goods
+stimulus,42.22617627649644,3.7380471490525555,34.89837482577206,49.55397772722082,non-food shopping: used goods,diff_Republican,non-food shopping,used goods
+lockdown,12.931869212924056,2.6947074046081876,7.649104663852182,18.21463376199593,non-food shopping: used goods,diff_Democrat,non-food shopping,used goods
+stimulus,59.80582384630564,4.254723387412115,51.46476914081495,68.14687855179633,non-food shopping: used goods,diff_Democrat,non-food shopping,used goods
+lockdown,12.976925027911394,2.7912525363074163,7.505603705816464,18.448246350006322,non-food shopping: used goods,perch_All,non-food shopping,used goods
+stimulus,79.23356751170134,4.9708012862885935,69.48996648965023,88.97716853375245,non-food shopping: used goods,perch_All,non-food shopping,used goods
+lockdown,10.988091792440681,3.9836152367649444,3.1788961490704057,18.797287435810958,non-food shopping: used goods,perch_Republican,non-food shopping,used goods
+stimulus,79.33575152708673,7.2824960184445935,65.05966490726478,93.61183814690868,non-food shopping: used goods,perch_Republican,non-food shopping,used goods
+lockdown,14.955400978099036,3.9100353487300796,7.290080397999722,22.620721558198348,non-food shopping: used goods,perch_Democrat,non-food shopping,used goods
+stimulus,79.1425796648032,6.801606726564065,65.80855800798963,92.47660132161676,non-food shopping: used goods,perch_Democrat,non-food shopping,used goods
+lockdown,-278.71882189778967,5.4476660509074115,-289.39675913785607,-268.04088465772327,clothing and accessories,diff_All,clothing and accessories,clothing and accessories
+stimulus,241.55722476462068,4.654955527873103,232.43307462078985,250.68137490845152,clothing and accessories,diff_All,clothing and accessories,clothing and accessories
+lockdown,-149.99904289970618,3.7463926561719476,-157.34264532225373,-142.65544047715863,clothing and accessories,diff_Republican,clothing and accessories,clothing and accessories
+stimulus,161.77182735815657,3.7614198424483707,154.39876895176764,169.1448857645455,clothing and accessories,diff_Republican,clothing and accessories,clothing and accessories
+lockdown,-406.9740140744785,9.829172107679433,-426.24205413293214,-387.7059740160248,clothing and accessories,diff_Democrat,clothing and accessories,clothing and accessories
+stimulus,314.9960818739677,8.090597434184435,299.1361545320817,330.85600921585365,clothing and accessories,diff_Democrat,clothing and accessories,clothing and accessories
+lockdown,-51.16146803258332,0.6655180507815359,-52.465945934122985,-49.85699013104366,clothing and accessories,perch_All,clothing and accessories,clothing and accessories
+stimulus,67.34699097433581,1.0268948604092814,65.33418057642777,69.35980137224385,clothing and accessories,perch_All,clothing and accessories,clothing and accessories
+lockdown,-48.33741757220318,1.0165548245406624,-50.330047591870446,-46.34478755253591,clothing and accessories,perch_Republican,clothing and accessories,clothing and accessories
+stimulus,72.80081255987757,1.591139799994267,69.68189279833044,75.9197323214247,clothing and accessories,perch_Republican,clothing and accessories,clothing and accessories
+lockdown,-53.97532568003995,0.8585417189220607,-55.65831749774548,-52.292333862334424,clothing and accessories,perch_Democrat,clothing and accessories,clothing and accessories
+stimulus,62.32699436919278,1.31554932680599,59.74813453745117,64.9058542009344,clothing and accessories,perch_Democrat,clothing and accessories,clothing and accessories
+lockdown,-123.25198400751954,2.0573730382319733,-127.28465780057661,-119.21931021446247,personal services,diff_All,personal services,personal services
+stimulus,53.330178623868086,1.7762128999324893,49.848609127553914,56.81174812018226,personal services,diff_All,personal services,personal services
+lockdown,-86.29948275933529,2.1683047187285838,-90.54982060118562,-82.04914491748497,personal services,diff_Republican,personal services,personal services
+stimulus,40.71864423351414,2.1861174740095173,36.43338960751249,45.00389885951579,personal services,diff_Republican,personal services,personal services
+lockdown,-156.33251983716886,3.3010244368858372,-162.80354428715518,-149.86149538718254,personal services,diff_Democrat,personal services,personal services
+stimulus,63.13667366463191,2.647954981261721,57.94586646104372,68.32748086822009,personal services,diff_Democrat,personal services,personal services
+lockdown,-68.76498047379927,0.9370099260545018,-70.6016213271671,-66.92833962043144,personal services,perch_All,personal services,personal services
+stimulus,27.73773443946811,1.24351463845597,25.30031118146058,30.17515769747564,personal services,perch_All,personal services,personal services
+lockdown,-63.21794194897307,1.4530265535852946,-66.06618264714312,-60.36970125080302,personal services,perch_Republican,personal services,personal services
+stimulus,29.07798859639709,2.035711995208414,25.087560658106007,33.068416534688176,personal services,perch_Republican,personal services,personal services
+lockdown,-73.73078794205492,1.2061844567384903,-76.09528092294046,-71.36629496116937,personal services,perch_Democrat,personal services,personal services
+stimulus,26.695577685462073,1.5427519333540494,23.671308804127836,29.71984656679631,personal services,perch_Democrat,personal services,personal services
+lockdown,-202.25138676202252,5.915195220479535,-213.8456012051789,-190.65717231886615,home activities,diff_All,home activities,
+stimulus,512.4400950244095,8.879681335493487,495.03527138745466,529.8449186613643,home activities,diff_All,home activities,
+lockdown,-103.86851017349825,4.41224981969699,-112.51711530343565,-95.21990504356086,home activities,diff_Republican,home activities,
+stimulus,363.3918801192341,7.31192834681512,349.05951373152516,377.724246506943,home activities,diff_Republican,home activities,
+lockdown,-353.3958752640402,13.181052206852,-379.23422910113385,-327.5575214269466,home activities,diff_Democrat,home activities,
+stimulus,726.9536800058395,18.70279730719903,690.2912431242346,763.6161168874444,home activities,diff_Democrat,home activities,
+lockdown,-12.512916903084578,0.8347391601308912,-14.149066593148941,-10.876767213020216,home activities,perch_All,home activities,
+stimulus,61.55415630205051,1.2444969808811706,59.114851370872394,63.99346123322862,home activities,perch_All,home activities,
+lockdown,-10.862917028760835,1.143664346817636,-13.104653499043646,-8.621180558478024,home activities,perch_Republican,home activities,
+stimulus,67.50093541337003,1.7298492842725048,64.11019735334669,70.89167347339337,home activities,perch_Republican,home activities,
+lockdown,-15.047792845735362,1.1805623502733154,-17.362007769886546,-12.73357792158418,home activities,perch_Democrat,home activities,
+stimulus,52.99541638642628,1.7311639314564826,49.601876515024045,56.38895625782851,home activities,perch_Democrat,home activities,
+lockdown,-206.71946559550975,5.947653089471716,-218.37730300517487,-195.06162818584463,home activities: internet and cable,diff_All,home activities,internet and cable
+stimulus,402.1823322873208,8.220713618127775,386.06912909441803,418.2955354802235,home activities: internet and cable,diff_All,home activities,internet and cable
+lockdown,-106.67312796338607,4.560206602150002,-115.6117523089529,-97.73450361781923,home activities: internet and cable,diff_Republican,home activities,internet and cable
+stimulus,291.18185900134637,6.701917924421915,278.04518955900477,304.31852844368797,home activities: internet and cable,diff_Republican,home activities,internet and cable
+lockdown,-350.99616835995084,12.738058742789502,-375.9661552462177,-326.026181473684,home activities: internet and cable,diff_Democrat,home activities,internet and cable
+stimulus,552.8221639334796,16.978334913645675,519.5401066981603,586.1042211687989,home activities: internet and cable,diff_Democrat,home activities,internet and cable
+lockdown,-14.94402009329282,0.8243298803269853,-16.559767274948683,-13.328272911636958,home activities: internet and cable,perch_All,home activities,internet and cable
+stimulus,50.807941363008425,1.2104155383696777,48.43543790119348,53.18044482482337,home activities: internet and cable,perch_All,home activities,internet and cable
+lockdown,-12.687969889815548,1.1431642185182942,-14.928727032224595,-10.447212747406502,home activities: internet and cable,perch_Republican,home activities,internet and cable
+stimulus,54.668758591270254,1.6773388587254603,51.380946597993486,57.95657058454702,home activities: internet and cable,perch_Republican,home activities,internet and cable
+lockdown,-18.197467369149855,1.1542405528892952,-20.46008619131204,-15.934848546987672,home activities: internet and cable,perch_Democrat,home activities,internet and cable
+stimulus,45.56838841278519,1.7172043691332814,42.20221061096197,48.93456621460841,home activities: internet and cable,perch_Democrat,home activities,internet and cable
+lockdown,7.4037337201223705,1.6865345418733955,4.097995673608123,10.709471766636618,home activities: home improvement,diff_All,home activities,home improvement
+stimulus,166.23834191811113,2.8293227712437092,160.69265062122244,171.78403321499982,home activities: home improvement,diff_All,home activities,home improvement
+lockdown,7.134813072168244,1.6904968229185426,3.8211975363430914,10.448428607993396,home activities: home improvement,diff_Republican,home activities,home improvement
+stimulus,121.42000222066544,2.7357085280691393,116.05762226395606,126.78238217737481,home activities: home improvement,diff_Republican,home activities,home improvement
+lockdown,7.752855502270956,3.195036394568697,1.4897129442329637,14.015998060308949,home activities: home improvement,diff_Democrat,home activities,home improvement
+stimulus,220.43724567238652,5.233329185513645,210.17849344104067,230.69599790373238,home activities: home improvement,diff_Democrat,home activities,home improvement
+lockdown,5.370924363127815,1.356038870952645,2.7129833740977256,8.028865352157904,home activities: home improvement,perch_All,home activities,home improvement
+stimulus,117.79999944880552,2.0905438144059714,113.7023720041222,121.89762689348885,home activities: home improvement,perch_All,home activities,home improvement
+lockdown,7.428964697648005,1.8836265555674576,3.7367872657819277,11.121142129514082,home activities: home improvement,perch_Republican,home activities,home improvement
+stimulus,123.77209011569963,2.9310405167506244,118.0268315261744,129.51734870522483,home activities: home improvement,perch_Republican,home activities,home improvement
+lockdown,2.6991075473205073,1.9314745816379872,-1.0871093084842012,6.485324403125215,home activities: home improvement,perch_Democrat,home activities,home improvement
+stimulus,110.57793880461848,2.9577993446510886,104.7798455543781,116.37603205485887,home activities: home improvement,perch_Democrat,home activities,home improvement
+lockdown,4.9383144859757575,1.3482296595795582,2.2953883723291795,7.581240599622335,home activities: home office,diff_All,home activities,home office
+stimulus,16.746095528650873,1.7674219498085784,13.281429407570334,20.21076164973141,home activities: home office,diff_All,home activities,home office
+lockdown,7.227330769962466,2.1696911913488477,2.973184736045459,11.481476803879472,home activities: home office,diff_Republican,home activities,home office
+stimulus,13.965335383095026,2.6119222588382187,8.844100267867226,19.086570498322825,home activities: home office,diff_Republican,home activities,home office
+lockdown,3.7966542163776484,1.7064712672785016,0.4510284214395126,7.142280011315784,home activities: home office,diff_Democrat,home activities,home office
+stimulus,17.96158504981911,2.2675898782384807,13.51585699424257,22.40731310539565,home activities: home office,diff_Democrat,home activities,home office
+lockdown,30.936077999805605,10.531038757936301,10.292149022710081,51.58000697690113,home activities: home office,perch_All,home activities,home office
+stimulus,142.72644044384495,15.736769379573765,111.87775050278591,173.57513038490399,home activities: home office,perch_All,home activities,home office
+lockdown,41.76918434410077,17.359442697246074,7.7322648986250755,75.80610378957647,home activities: home office,perch_Republican,home activities,home office
+stimulus,132.6264749100646,27.997019764833958,77.73229869320835,187.52065112692082,home activities: home office,perch_Republican,home activities,home office
+lockdown,25.533002802772714,13.196194153751811,-0.3388231121247678,51.4048287176702,home activities: home office,perch_Democrat,home activities,home office
+stimulus,147.14120533828947,19.016395448128893,109.85857166144544,184.4238390151335,home activities: home office,perch_Democrat,home activities,home office
+lockdown,-27.924528623409408,2.3097019637231933,-32.452008346366405,-23.39704890045241,home activities: education,diff_All,home activities,education
+stimulus,24.189466012418457,2.9079913391334644,18.489218954898448,29.889713069938466,home activities: education,diff_All,home activities,education
+lockdown,-25.440068829400143,3.3165832279515546,-31.942065162336675,-18.93807249646361,home activities: education,diff_Republican,home activities,education
+stimulus,18.753075893140977,4.359624215634494,10.206249622013598,27.299902164268357,home activities: education,diff_Republican,home activities,education
+lockdown,-29.48644982632944,3.130043117896147,-35.62266768060639,-23.35023197205249,home activities: education,diff_Democrat,home activities,education
+stimulus,27.296429070653176,3.828625813885857,19.790691548320584,34.80216659298577,home activities: education,diff_Democrat,home activities,education
+lockdown,-57.584945433495086,4.948628730177879,-67.28525161334812,-47.88463925364206,home activities: education,perch_All,home activities,education
+stimulus,48.11970377623444,7.2047153484822255,33.99701471840084,62.242392834068035,home activities: education,perch_All,home activities,education
+lockdown,-68.76593449455562,7.556192147149244,-83.5794730838082,-53.95239590530305,home activities: education,perch_Republican,home activities,education
+stimulus,45.510098108272935,11.250906496216746,23.453255944901283,67.56694027164458,home activities: education,perch_Republican,home activities,education
+lockdown,-50.55572164561261,6.508808174876475,-63.31575830593377,-37.795684985291444,home activities: education,perch_Democrat,home activities,education
+stimulus,49.61112514758993,9.319448091310369,31.34103696799211,67.88121332718775,home activities: education,perch_Democrat,home activities,education
+lockdown,-62.164595791062034,6.218922708991489,-74.35861184165861,-49.97057974046545,home activities: child care,diff_All,home activities,child care
+stimulus,-6.855696984669908,9.806380126999212,-26.083972083504776,12.37257811416496,home activities: child care,diff_All,home activities,child care
+lockdown,-41.05445891466807,8.55297760537581,-57.83384087818068,-24.27507695115545,home activities: child care,diff_Republican,home activities,child care
+stimulus,4.214727365748389,15.759598801992054,-26.702730868227825,35.1321855997246,home activities: child care,diff_Republican,home activities,child care
+lockdown,-74.90553436532635,8.434679762214722,-91.44985257031911,-58.36121616033359,home activities: child care,diff_Democrat,home activities,child care
+stimulus,-14.025135311733061,12.53252422191825,-38.60722668739333,10.556956063927208,home activities: child care,diff_Democrat,home activities,child care
+lockdown,-47.72472687386787,5.204797939414461,-57.93025483799083,-37.519198909744915,home activities: child care,perch_All,home activities,child care
+stimulus,0.4992609285603173,9.381958274049415,-17.896811049368896,18.895332906489532,home activities: child care,perch_All,home activities,child care
+lockdown,-45.72407411820659,8.238824179457236,-61.8871443629418,-29.56100387347138,home activities: child care,perch_Republican,home activities,child care
+stimulus,2.3195874860763546,16.54698467326929,-30.14257820492978,34.78175317708249,home activities: child care,perch_Republican,home activities,child care
+lockdown,-48.9322128327494,6.701037081184014,-62.07605384390526,-35.78837182159354,home activities: child care,perch_Democrat,home activities,child care
+stimulus,-0.6796206188966457,11.144208877026832,-22.538581836414803,21.17934059862151,home activities: child care,perch_Democrat,home activities,child care
+lockdown,-714.1117363063778,10.943303126369058,-735.5614211470952,-692.6620514656604,fin. and empl.,diff_All,fin. and empl.,
+stimulus,637.781531045008,11.027107406926246,616.1675836059237,659.3954784840923,fin. and empl.,diff_All,fin. and empl.,
+lockdown,-444.94915926201634,8.709615527274421,-462.0211991892473,-427.8771193347854,fin. and empl.,diff_Republican,fin. and empl.,
+stimulus,550.9088676762144,11.21473216078786,528.9264558668052,572.8912794856236,fin. and empl.,diff_Republican,fin. and empl.,
+lockdown,-1077.7743732158804,22.13117342936706,-1121.1573762284013,-1034.3913702033594,fin. and empl.,diff_Democrat,fin. and empl.,
+stimulus,747.6782734654184,20.521062488215303,707.45151736558,787.9050295652569,fin. and empl.,diff_Democrat,fin. and empl.,
+lockdown,-34.38557885796157,0.694590161398188,-35.74702703164453,-33.02413068427861,fin. and empl.,perch_All,fin. and empl.,
+stimulus,39.258527717910304,0.9458276656817608,37.404635423396435,41.112420012424174,fin. and empl.,perch_All,fin. and empl.,
+lockdown,-31.799208122648505,0.9882612064483343,-33.736335510440234,-29.862080734856775,fin. and empl.,perch_Republican,fin. and empl.,
+stimulus,44.90160334326517,1.3829336037417113,42.190863974132974,47.61234271239737,fin. and empl.,perch_Republican,fin. and empl.,
+lockdown,-37.87999629131189,0.9394548102436302,-39.72157830199935,-36.03841428062443,fin. and empl.,perch_Democrat,fin. and empl.,
+stimulus,32.11985365855194,1.2304679140484716,29.70780834191543,34.53189897518845,fin. and empl.,perch_Democrat,fin. and empl.,
+lockdown,-716.2107779250107,11.009546327061488,-737.7903045153732,-694.6312513346481,"fin. and empl.: tax, real estate",diff_All,fin. and empl.,"tax, real estate"
+stimulus,637.8418124967501,11.04345484326477,616.1958227020638,659.4878022914364,"fin. and empl.: tax, real estate",diff_All,fin. and empl.,"tax, real estate"
+lockdown,-447.08774132023404,8.877293107043291,-464.48845261721203,-429.68703002325606,"fin. and empl.: tax, real estate",diff_Republican,fin. and empl.,"tax, real estate"
+stimulus,551.7045783767009,11.238812111676346,529.6749661381347,573.734190615267,"fin. and empl.: tax, real estate",diff_Republican,fin. and empl.,"tax, real estate"
+lockdown,-1078.968772039648,22.16779587066435,-1122.4235648054866,-1035.5139792738094,"fin. and empl.: tax, real estate",diff_Democrat,fin. and empl.,"tax, real estate"
+stimulus,746.5787062653936,20.531184773078493,706.3321077872865,786.8253047435007,"fin. and empl.: tax, real estate",diff_Democrat,fin. and empl.,"tax, real estate"
+lockdown,-34.40354815370165,0.6866274246485868,-35.74938878397865,-33.05770752342465,"fin. and empl.: tax, real estate",perch_All,fin. and empl.,"tax, real estate"
+stimulus,39.191719752085895,0.9400556718815967,37.34914097861481,41.03429852555698,"fin. and empl.: tax, real estate",perch_All,fin. and empl.,"tax, real estate"
+lockdown,-32.03801616612622,0.9767535738835734,-33.952587054177066,-30.123445278075373,"fin. and empl.: tax, real estate",perch_Republican,fin. and empl.,"tax, real estate"
+stimulus,44.8081826053813,1.3746574429385792,42.113665593451394,47.5026996173112,"fin. and empl.: tax, real estate",perch_Republican,fin. and empl.,"tax, real estate"
+lockdown,-37.592110714724036,0.9297760898553017,-39.41471985182645,-35.769501577621625,"fin. and empl.: tax, real estate",perch_Democrat,fin. and empl.,"tax, real estate"
+stimulus,32.101676394263166,1.2236336043758296,29.703028147513756,34.500324641012575,"fin. and empl.: tax, real estate",perch_Democrat,fin. and empl.,"tax, real estate"
+lockdown,-95.52213736814787,1.7604117046440886,-98.97267375033442,-92.07160098596131,entertainment,diff_All,entertainment,
+stimulus,201.84589386716573,2.9387717749705313,196.0856851036544,207.60610263067704,entertainment,diff_All,entertainment,
+lockdown,-63.42296261302961,1.7143328205008646,-66.78328786024962,-60.062637365809614,entertainment,diff_Republican,entertainment,
+stimulus,149.2064561502568,2.795416886873611,143.72705925069673,154.68585304981687,entertainment,diff_Republican,entertainment,
+lockdown,-140.87291956135402,3.4157934780971817,-147.568783772387,-134.17705535032104,entertainment,diff_Democrat,entertainment,
+stimulus,271.1930874765864,5.635619959693466,260.14577263244786,282.24040232072497,entertainment,diff_Democrat,entertainment,
+lockdown,-27.569433453389873,0.7234561404085708,-28.987460683503485,-26.15140622327626,entertainment,perch_All,entertainment,
+stimulus,64.36869594255958,1.060291132260902,62.290447361318925,66.44694452380024,entertainment,perch_All,entertainment,
+lockdown,-24.588569493328176,1.0089649043777125,-26.56627778963716,-22.610861197019194,entertainment,perch_Republican,entertainment,
+stimulus,69.8178862654984,1.5057014858970932,66.86650677994528,72.76926575105152,entertainment,perch_Republican,entertainment,
+lockdown,-31.780897244332465,1.005304865699611,-33.7515623078319,-29.81023218083303,entertainment,perch_Democrat,entertainment,
+stimulus,57.189932780772736,1.4435652008886728,54.36016083264324,60.019704728902234,entertainment,perch_Democrat,entertainment,
+lockdown,-99.40138451024535,1.8534160350350009,-103.03425927516776,-95.76850974532294,entertainment: outdoor recreation,diff_All,entertainment,outdoor recreation
+stimulus,15.57766884847539,1.2440162221906435,13.139276682161174,18.016061014789607,entertainment: outdoor recreation,diff_All,entertainment,outdoor recreation
+lockdown,-60.8507103927579,1.722276504432827,-64.2266885906903,-57.4747321948255,entertainment: outdoor recreation,diff_Republican,entertainment,outdoor recreation
+stimulus,18.7351582879485,1.4820966117692258,15.829976782142541,21.64033979375446,entertainment: outdoor recreation,diff_Republican,entertainment,outdoor recreation
+lockdown,-141.79222077849457,3.275202062221495,-148.2125987884071,-135.37184276858204,entertainment: outdoor recreation,diff_Democrat,entertainment,outdoor recreation
+stimulus,12.367001050975162,2.0035998011967577,8.439344723248158,16.294657378702166,entertainment: outdoor recreation,diff_Democrat,entertainment,outdoor recreation
+lockdown,-78.95998627703892,1.0375284053236133,-80.99364234256399,-76.92633021151386,entertainment: outdoor recreation,perch_All,entertainment,outdoor recreation
+stimulus,14.781431682535683,1.368481650188609,12.099075234089561,17.463788130981804,entertainment: outdoor recreation,perch_All,entertainment,outdoor recreation
+lockdown,-71.93911102844572,1.5620156840263804,-75.00094859083998,-68.87727346605146,entertainment: outdoor recreation,perch_Republican,entertainment,outdoor recreation
+stimulus,21.47054135520387,2.159915266163244,17.236710823822513,25.70437188658523,entertainment: outdoor recreation,perch_Republican,entertainment,outdoor recreation
+lockdown,-86.68023449412283,1.3315936648320794,-89.29055731433621,-84.06991167390944,entertainment: outdoor recreation,perch_Democrat,entertainment,outdoor recreation
+stimulus,7.979664192359424,1.6646522646989015,4.716446659095323,11.242881725623526,entertainment: outdoor recreation,perch_Democrat,entertainment,outdoor recreation
+lockdown,30.751330944192226,0.6729536636959831,29.43227104132604,32.07039084705841,entertainment: indoor digital,diff_All,entertainment,indoor digital
+stimulus,25.138264403984728,0.9593005911147409,23.25793443061685,27.018594377352606,entertainment: indoor digital,diff_All,entertainment,indoor digital
+lockdown,23.016050089319332,0.7089752705904211,21.62631868065795,24.405781497980715,entertainment: indoor digital,diff_Republican,entertainment,indoor digital
+stimulus,22.429694422774027,1.033867263240707,20.403110608481242,24.45627823706681,entertainment: indoor digital,diff_Republican,entertainment,indoor digital
+lockdown,39.3048426593653,1.1665780728231283,37.01797498200214,41.59171033672846,entertainment: indoor digital,diff_Democrat,entertainment,indoor digital
+stimulus,27.912688308971436,1.6270110423212971,24.723224140153956,31.102152477788916,entertainment: indoor digital,diff_Democrat,entertainment,indoor digital
+lockdown,82.37647785747106,2.059616509925579,78.33941304887324,86.41354266606888,entertainment: indoor digital,perch_All,entertainment,indoor digital
+stimulus,45.18668777535678,3.162238113863272,38.98836874637141,51.385006804342154,entertainment: indoor digital,perch_All,entertainment,indoor digital
+lockdown,74.42088161371306,2.866794083340303,68.80139960207002,80.04036362535611,entertainment: indoor digital,perch_Republican,entertainment,indoor digital
+stimulus,54.16567510393486,4.454089831937042,45.43478025722561,62.89656995064411,entertainment: indoor digital,perch_Republican,entertainment,indoor digital
+lockdown,91.1736097197617,2.957951176096265,85.37507544810092,96.97214399142248,entertainment: indoor digital,perch_Democrat,entertainment,indoor digital
+stimulus,35.98939279690353,4.486477872852144,27.194455302663343,44.78433029114372,entertainment: indoor digital,perch_Democrat,entertainment,indoor digital
+lockdown,-57.012572394200305,1.2835093516723104,-59.52836515911759,-54.49677962928302,entertainment: indoor non-digital,diff_All,entertainment,indoor non-digital
+stimulus,165.65587230835644,2.458623807331367,160.8367504390233,170.47499417768958,entertainment: indoor non-digital,diff_All,entertainment,indoor non-digital
+lockdown,-46.999765816151495,1.404878692705343,-49.75356373099299,-44.24596790131,entertainment: indoor non-digital,diff_Republican,entertainment,indoor non-digital
+stimulus,126.0455567583528,2.5662140579584287,121.01534670638426,131.07576681032134,entertainment: indoor non-digital,diff_Republican,entertainment,indoor non-digital
+lockdown,-67.70226608464661,2.181159706611916,-71.97796860514401,-63.42656356414921,entertainment: indoor non-digital,diff_Democrat,entertainment,indoor non-digital
+stimulus,205.318799909762,4.131624910023485,197.21962267483227,213.41797714469172,entertainment: indoor non-digital,diff_Democrat,entertainment,indoor non-digital
+lockdown,-37.51693287376938,1.296707086833777,-40.05859437629208,-34.97527137124668,entertainment: indoor non-digital,perch_All,entertainment,indoor non-digital
+stimulus,123.06846528781195,1.9445282821419891,119.2570164837842,126.8799140918397,entertainment: indoor non-digital,perch_All,entertainment,indoor non-digital
+lockdown,-39.620635354245564,1.8431033770938159,-43.23342716540502,-36.00784354308611,entertainment: indoor non-digital,perch_Republican,entertainment,indoor non-digital
+stimulus,125.56597740384984,2.790408962266119,120.09630772934854,131.03564707835113,entertainment: indoor non-digital,perch_Republican,entertainment,indoor non-digital
+lockdown,-35.271015612026794,1.820572328850955,-38.83986280447168,-31.70216841958191,entertainment: indoor non-digital,perch_Democrat,entertainment,indoor non-digital
+stimulus,120.56763587339003,2.708113216234891,115.25895239214505,125.87631935463502,entertainment: indoor non-digital,perch_Democrat,entertainment,indoor non-digital
+lockdown,-20.541658469306043,1.276444271429548,-23.043588425592535,-18.03972851301955,health,diff_All,health,
+stimulus,87.36286496474827,1.8401275762463585,83.75607193081225,90.96965799868428,health,diff_All,health,
+lockdown,-12.82237310928604,1.459085254459319,-15.682391524541204,-9.962354694030877,health,diff_Republican,health,
+stimulus,77.38391176418186,2.102450809134714,73.26280368436537,81.50501984399835,health,diff_Republican,health,
+lockdown,-29.787527768382045,2.1894386022922556,-34.07941955696005,-25.495635979804042,health,diff_Democrat,health,
+stimulus,98.42764334507635,3.1006975112338124,92.3494376473254,104.5058490428273,health,diff_Democrat,health,
+lockdown,-10.81261560364705,0.6458646671016923,-12.078560537160676,-9.546670670133423,health,perch_All,health,
+stimulus,33.765810580302045,0.8979914838690342,32.00567749476914,35.52594366583495,health,perch_All,health,
+lockdown,-8.077372419849143,0.9358341236275772,-9.911742837217837,-6.2430020024804485,health,perch_Republican,health,
+stimulus,41.0406823445799,1.3075619402065013,38.47767157009083,43.60369311906897,health,perch_Republican,health,
+lockdown,-14.08878688105112,0.8696818655987258,-15.793598540866794,-12.383975221235447,health,perch_Democrat,health,
+stimulus,25.699348878440773,1.2095003588816244,23.32840106874592,28.070296688135628,health,perch_Democrat,health,
+lockdown,-63.846155080268026,2.66800331246894,-69.07589219935042,-58.61641796118563,health: medical services,diff_All,health,medical services
+stimulus,53.87502230075247,3.0236028058995146,47.948250113673915,59.801794487831025,health: medical services,diff_All,health,medical services
+lockdown,-47.60837391049935,3.391256721093565,-54.25639787141021,-40.9603499495885,health: medical services,diff_Republican,health,medical services
+stimulus,44.717962042065516,3.985117528416607,36.905767627183145,52.530156456947886,health: medical services,diff_Republican,health,medical services
+lockdown,-78.80930373184648,4.032075866633805,-86.71383066732885,-70.90477679636412,health: medical services,diff_Democrat,health,medical services
+stimulus,61.72475773789661,4.446510777301356,53.00776793645365,70.44174753933957,health: medical services,diff_Democrat,health,medical services
+lockdown,-56.91890602459804,3.039238870268879,-62.876327538777,-50.961484510419076,health: medical services,perch_All,health,medical services
+stimulus,54.78803290002682,4.3041156471750055,46.35123926500523,63.22482653504841,health: medical services,perch_All,health,medical services
+lockdown,-43.65640561364545,4.413026719154172,-52.30744851069167,-35.00536271659922,health: medical services,perch_Republican,health,medical services
+stimulus,57.20952578178105,6.476292707040618,44.513775316627644,69.90527624693446,health: medical services,perch_Republican,health,medical services
+lockdown,-69.14032735463618,4.184362071536823,-77.3433978811555,-60.937256828116865,health: medical services,perch_Democrat,health,medical services
+stimulus,52.71224897508577,5.752224807845285,41.43552268408902,63.98897526608252,health: medical services,perch_Democrat,health,medical services
+lockdown,-10.22997111251491,0.649516599904191,-11.503089938859128,-8.956852286170692,health: drug store,diff_All,health,drug store
+stimulus,9.249865837975063,0.7730716658073915,7.734566472265465,10.765165203684662,health: drug store,diff_All,health,drug store
+lockdown,-3.5494502682594162,0.6697856217670493,-4.862363785412751,-2.2365367511060814,health: drug store,diff_Republican,health,drug store
+stimulus,10.321606917097384,0.9037177743547882,8.550139684773317,12.09307414942145,health: drug store,diff_Republican,health,drug store
+lockdown,-16.050598488064093,1.059160545534939,-18.126868362745395,-13.97432861338279,health: drug store,diff_Democrat,health,drug store
+stimulus,8.3762786826419,1.1939940356297836,6.035695041022957,10.716862324260841,health: drug store,diff_Democrat,health,drug store
+lockdown,-6.6197011204696965,0.8116677240453757,-8.210652699491016,-5.028749541448377,health: drug store,perch_All,health,drug store
+stimulus,7.631582332683785,1.1130450452205598,5.449900445187036,9.813264220180535,health: drug store,perch_All,health,drug store
+lockdown,-3.121842924022814,1.2554509332875947,-5.582777358666932,-0.6609084893786958,health: drug store,perch_Republican,health,drug store
+stimulus,11.662324979644554,1.7661220362076513,8.200373246249685,15.124276713039423,health: drug store,perch_Republican,health,drug store
+lockdown,-9.667327143751226,1.0521136558985948,-11.7297830175959,-7.604871269906553,health: drug store,perch_Democrat,health,drug store
+stimulus,4.346082624375379,1.4159029815417505,1.5704914088228765,7.121673839927881,health: drug store,perch_Democrat,health,drug store
+lockdown,37.3398622338903,0.9549849909243063,35.468001799604366,39.211722668176236,health: liquor & cigar,diff_All,health,liquor & cigar
+stimulus,23.656197141675012,0.8370010615935751,22.015596309680866,25.296797973669157,health: liquor & cigar,diff_All,health,liquor & cigar
+lockdown,24.66892046182133,0.814062429695591,23.07321222021741,26.26462870342525,health: liquor & cigar,diff_Republican,health,liquor & cigar
+stimulus,21.62669950858189,0.9247678627311691,19.81398877989444,23.43941023726934,health: liquor & cigar,diff_Republican,health,liquor & cigar
+lockdown,50.638499923067556,1.74048326403905,47.22664265260157,54.05035719353354,health: liquor & cigar,diff_Democrat,health,liquor & cigar
+stimulus,25.626147022130922,1.3836721096728786,22.913744182719014,28.33854986154283,health: liquor & cigar,diff_Democrat,health,liquor & cigar
+lockdown,20.10730758608479,0.7365228310440923,18.663653539705148,21.550961632464432,health: liquor & cigar,perch_All,health,liquor & cigar
+stimulus,25.011469165863716,0.9840074856527243,23.08272191125842,26.94021642046901,health: liquor & cigar,perch_All,health,liquor & cigar
+lockdown,20.292986270282867,1.0335738663173393,18.266996276609117,22.318976263956618,health: liquor & cigar,perch_Republican,health,liquor & cigar
+stimulus,28.443538800783003,1.441753503698472,25.61744357234546,31.269634029220544,health: liquor & cigar,perch_Republican,health,liquor & cigar
+lockdown,19.912430710144953,1.049831070145791,17.854454144989287,21.97040727530062,health: liquor & cigar,perch_Democrat,health,liquor & cigar
+stimulus,21.68010033015747,1.340355012203285,19.052611696466876,24.307588963848062,health: liquor & cigar,perch_Democrat,health,liquor & cigar
+lockdown,-20.169040070143208,1.7044464800050325,-23.50988170315208,-16.828198437134336,gen. merch.,diff_All,gen. merch.,
+stimulus,185.57241022928778,3.205853059219255,179.28870024179852,191.85612021677704,gen. merch.,diff_All,gen. merch.,
+lockdown,-11.864039931277302,1.4891037311101,-14.78288639961847,-8.945193462936135,gen. merch.,diff_Republican,gen. merch.,
+stimulus,128.29239655685367,2.6907664305426553,123.01812725724925,133.5666658564581,gen. merch.,diff_Republican,gen. merch.,
+lockdown,-34.11977153787162,3.815291514500899,-41.59877217993738,-26.640770895805865,gen. merch.,diff_Democrat,gen. merch.,
+stimulus,275.3030035099646,6.911455579054982,261.7546860309729,288.8513209889563,gen. merch.,diff_Democrat,gen. merch.,
+lockdown,-4.6304899256066125,0.6299240388484995,-5.865187805126977,-3.395792046086248,gen. merch.,perch_All,gen. merch.,
+stimulus,48.79950150673626,0.9522503683215763,46.93302009305916,50.66598292041336,gen. merch.,perch_All,gen. merch.,
+lockdown,-2.8123310410301783,0.8173526926343293,-4.41445382834355,-1.2102082537168064,gen. merch.,perch_Republican,gen. merch.,
+stimulus,47.7862311045565,1.256069278789426,45.324163955175834,50.248298253937165,gen. merch.,perch_Republican,gen. merch.,
+lockdown,-7.684631519859972,0.9814535610754864,-9.60854527207073,-5.760717767649215,gen. merch.,perch_Democrat,gen. merch.,
+stimulus,50.38681527487394,1.4495181336407654,47.54536868790104,53.22826186184684,gen. merch.,perch_Democrat,gen. merch.,
+lockdown,33.19516221353944,2.3850157216052215,28.51997213966469,37.870352287414185,gen. merch.: wholesale club,diff_All,gen. merch.,wholesale club
+stimulus,45.15830742367207,3.369461398914205,38.553372980763896,51.763241866580245,gen. merch.: wholesale club,diff_All,gen. merch.,wholesale club
+lockdown,25.015861188057624,3.816606955143484,17.533247056459793,32.498475319655455,gen. merch.: wholesale club,diff_Republican,gen. merch.,wholesale club
+stimulus,35.538437359639794,5.080168571987934,25.578558966495955,45.49831575278363,gen. merch.: wholesale club,diff_Republican,gen. merch.,wholesale club
+lockdown,38.21278633040679,3.048553688146948,32.2361775696192,44.189395091194385,gen. merch.: wholesale club,diff_Democrat,gen. merch.,wholesale club
+stimulus,50.43487785947749,4.404533206305639,41.799907168183154,59.06984855077182,gen. merch.: wholesale club,diff_Democrat,gen. merch.,wholesale club
+lockdown,49.47852645101087,7.1678319654516685,35.42789502224721,63.52915787977453,gen. merch.: wholesale club,perch_All,gen. merch.,wholesale club
+stimulus,83.21066064032495,10.860930047933415,61.92069097967584,104.50063030097405,gen. merch.: wholesale club,perch_All,gen. merch.,wholesale club
+lockdown,45.96601303211009,12.171871610661078,22.10256060110046,69.82946546311972,gen. merch.: wholesale club,perch_Republican,gen. merch.,wholesale club
+stimulus,60.48164626539402,18.04095668132099,25.11161235889717,95.85168017189088,gen. merch.: wholesale club,perch_Republican,gen. merch.,wholesale club
+lockdown,51.63329150814586,8.831852838369501,34.31867794138569,68.94790507490603,gen. merch.: wholesale club,perch_Democrat,gen. merch.,wholesale club
+stimulus,95.67769444509203,13.59083930134668,69.03321396547861,122.32217492470545,gen. merch.: wholesale club,perch_Democrat,gen. merch.,wholesale club
+lockdown,-2.906870181070286,1.5424991421035361,-5.930292418061035,0.11655205592046336,gen. merch.: discount store,diff_All,gen. merch.,discount store
+stimulus,132.63494610227008,2.611055041080753,127.51706845959943,137.7528237449407,gen. merch.: discount store,diff_All,gen. merch.,discount store
+lockdown,-0.6995270850665518,1.260951101815272,-3.171174405918964,1.7721202357858603,gen. merch.: discount store,diff_Republican,gen. merch.,discount store
+stimulus,91.39627325712057,2.1253989260222674,87.23018263419083,95.56236388005031,gen. merch.: discount store,diff_Republican,gen. merch.,discount store
+lockdown,-6.739474509327615,3.60799883530399,-13.812194799814758,0.3332457811595271,gen. merch.: discount store,diff_Democrat,gen. merch.,discount store
+stimulus,199.41390621758342,5.775954617118138,188.09136613866391,210.73644629650292,gen. merch.: discount store,diff_Democrat,gen. merch.,discount store
+lockdown,0.3965254287161174,0.7967764785588443,-1.1652204792270169,1.9582713366592515,gen. merch.: discount store,perch_All,gen. merch.,discount store
+stimulus,59.9983258039985,1.2660611243392694,57.516744289796314,62.47990731820068,gen. merch.: discount store,perch_All,gen. merch.,discount store
+lockdown,1.412938449644329,1.0100486175350483,-0.5669035568119352,3.392780456100593,gen. merch.: discount store,perch_Republican,gen. merch.,discount store
+stimulus,54.781191209995875,1.5988656526947116,51.647182285148,57.91520013484375,gen. merch.: discount store,perch_Republican,gen. merch.,discount store
+lockdown,-1.3682699718535611,1.295110944589305,-3.907061660642169,1.1705217169350466,gen. merch.: discount store,perch_Democrat,gen. merch.,discount store
+stimulus,68.44658077760913,2.0664768987628634,64.39568892346261,72.49747263175564,gen. merch.: discount store,perch_Democrat,gen. merch.,discount store
+lockdown,-28.505320764298524,1.2750655564190854,-31.004611683880178,-26.00602984471687,gen. merch.: department store,diff_All,gen. merch.,department store
+stimulus,70.26482287327046,1.7833346134651886,66.76925985412146,73.76038589241946,gen. merch.: department store,diff_All,gen. merch.,department store
+lockdown,-20.226044765298845,1.3340381439586682,-22.84108389508413,-17.61100563551356,gen. merch.: department store,diff_Republican,gen. merch.,department store
+stimulus,48.88777682759242,1.6397220982461558,45.67352282120909,52.102030833975746,gen. merch.: department store,diff_Republican,gen. merch.,department store
+lockdown,-36.43603542741936,2.1342813647908088,-40.61999138688118,-32.25207946795754,gen. merch.: department store,diff_Democrat,gen. merch.,department store
+stimulus,88.98983323090647,2.968284394950627,83.17093259835165,94.80873386346128,gen. merch.: department store,diff_Democrat,gen. merch.,department store
+lockdown,-34.76473522917483,2.049079438424814,-38.781191958144284,-30.74827850020538,gen. merch.: department store,perch_All,gen. merch.,department store
+stimulus,104.15683779329792,3.1581324921671867,97.96649579811744,110.34717978847841,gen. merch.: department store,perch_All,gen. merch.,department store
+lockdown,-35.226044511071635,3.0686901089883625,-41.241423268066356,-29.210665754076913,gen. merch.: department store,perch_Republican,gen. merch.,department store
+stimulus,103.60936084981194,4.72287654896484,94.3513744596784,112.86734723994547,gen. merch.: department store,perch_Republican,gen. merch.,department store
+lockdown,-34.322847280685885,2.7305777153050608,-39.67575767628596,-28.969936885085808,gen. merch.: department store,perch_Democrat,gen. merch.,department store
+stimulus,104.63639476367804,4.241101069008897,96.3223175360493,112.95047199130678,gen. merch.: department store,perch_Democrat,gen. merch.,department store
+lockdown,-351.1409826167112,5.309742936538875,-361.54846545562845,-340.73349977779395,food,diff_All,food,
+stimulus,394.5844018768318,6.699110350106804,381.45365772630674,407.71514602735687,food,diff_All,food,
+lockdown,-220.29758836922034,5.025650936516038,-230.14854160743624,-210.44663513100443,food,diff_Republican,food,
+stimulus,309.5096120057833,6.683538319285753,296.40897603229683,322.6102479792698,food,diff_Republican,food,
+lockdown,-568.3752123355592,10.962421771637766,-589.8644540663254,-546.8859706047931,food,diff_Democrat,food,
+stimulus,525.4558779786314,13.440318159606718,499.1093049415091,551.8024510157537,food,diff_Democrat,food,
+lockdown,-19.61414531054307,0.2892823718543604,-20.18115982643563,-19.04713079465051,food,perch_All,food,
+stimulus,23.97640319959417,0.393515125015507,23.205084896730547,24.747721502457793,food,perch_All,food,
+lockdown,-17.115232952265227,0.3931890731668756,-17.885936533248397,-16.344529371282057,food,perch_Republican,food,
+stimulus,27.478830114611615,0.556660201014664,26.38770108893106,28.56995914029217,food,perch_Republican,food,
+lockdown,-23.762992903555975,0.40347521704459727,-24.55391088245338,-22.97207492465857,food,perch_Democrat,food,
+stimulus,18.588581719202477,0.5086980866219618,17.59139912769885,19.585764310706104,food,perch_Democrat,food,
+lockdown,-7.218120075225796,4.016529857663506,-15.090811582897455,0.6545714324458629,food: grocery,diff_All,food,grocery
+stimulus,154.3744231003486,5.080036837894819,144.41718033367368,164.3316658670235,food: grocery,diff_All,food,grocery
+lockdown,-14.84017824370953,4.095867227828276,-22.86863054188022,-6.811725945538843,food: grocery,diff_Republican,food,grocery
+stimulus,147.7281827020578,5.529421922377122,136.8897698163447,158.5665955877709,food: grocery,diff_Republican,food,grocery
+lockdown,4.927888119031583,8.116791411272132,-10.983171235948014,20.838947474011178,food: grocery,diff_Democrat,food,grocery
+stimulus,164.13970678125827,9.55887994757537,145.40177223217285,182.8776413303437,food: grocery,diff_Democrat,food,grocery
+lockdown,-4.470490292067657,0.4852314764484835,-5.4215793812231325,-3.519401202912181,food: grocery,perch_All,food,grocery
+stimulus,21.54354711567652,0.7029924212215591,20.165630690145953,22.92146354120709,food: grocery,perch_All,food,grocery
+lockdown,-5.086153767948719,0.660596887384176,-6.3810127816028235,-3.7912947542946154,food: grocery,perch_Republican,food,grocery
+stimulus,27.40925592554601,0.973911762116719,25.50025749130544,29.31825435978658,food: grocery,perch_Republican,food,grocery
+lockdown,-3.48940966296968,0.689503221738006,-4.841018461402957,-2.1378008645364024,food: grocery,perch_Democrat,food,grocery
+stimulus,12.925094112878003,0.9742764883301632,11.01525434387096,14.834933881885046,food: grocery,perch_Democrat,food,grocery
+lockdown,-361.9705789056065,3.9509773188817836,-369.714782260418,-354.22637555079496,food: restaurant,diff_All,food,restaurant
+stimulus,266.69407971042546,3.6302869814300376,259.5784527777768,273.8097066430741,food: restaurant,diff_All,food,restaurant
+lockdown,-220.19282325251496,3.187310978899125,-226.44038250334916,-213.94526400168075,food: restaurant,diff_Republican,food,restaurant
+stimulus,189.51525512331924,3.1154548410532956,183.408543590734,195.62196665590446,food: restaurant,diff_Republican,food,restaurant
+lockdown,-590.3102738114087,8.291652540060076,-606.564102841521,-574.0564447812964,food: restaurant,diff_Democrat,food,restaurant
+stimulus,383.10641239192574,7.630164424053874,368.1492747862394,398.0635499976121,food: restaurant,diff_Democrat,food,restaurant
+lockdown,-41.3336193615686,0.24842575339139691,-41.82055193484385,-40.846686788293354,food: restaurant,perch_All,food,restaurant
+stimulus,32.45517941076005,0.30902092389586855,31.84947588922765,33.06088293229246,food: restaurant,perch_All,food,restaurant
+lockdown,-37.75238040141379,0.3340898738356641,-38.40724159811225,-37.097519204715326,food: restaurant,perch_Republican,food,restaurant
+stimulus,35.441134989560695,0.4373010967158394,34.58396588046717,36.29830409865422,food: restaurant,perch_Republican,food,restaurant
+lockdown,-47.101371910474704,0.35344794932264906,-47.79422324639097,-46.40852057455844,food: restaurant,perch_Democrat,food,restaurant
+stimulus,27.951326753361386,0.40107085837429984,27.165121937194662,28.73753156952811,food: restaurant,perch_Democrat,food,restaurant
